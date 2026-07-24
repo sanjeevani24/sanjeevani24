@@ -1,3 +1,6 @@
+<div>
+  <img width=100% style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F7931E"  />
+</div>
 <div align="center">
 
 # Sanjeevani Chaurasia
@@ -55,6 +58,4 @@
   <a href="https://instagram.com/sanjeevanii._"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"></a>
 </div>
 
-<div>
-  <img width=100% style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F7931E"  />
-</div>
+
