@@ -1,3 +1,13 @@
+<div align="center">
+
+# Sanjeevani Chaurasia
+
+![Role](https://img.shields.io/badge/AI%20%26%20Data%20Science%20Engineering%20Student-F7931E?style=for-the-badge&labelColor=282a36)
+
+
+</div>
+
+---
 ## 💻 Languages and Tools
 
 <div align="center">
@@ -15,14 +25,13 @@
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
   <br>
 
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -36,7 +45,7 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjeevani24&show_icons=true&theme=calm_pink&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=sanjeevani24&theme=dark&hide_border=false" />
 </div>
 
 ## 📫 Connect with Me
@@ -44,4 +53,8 @@
   <a href="mailto:sanjeevanism2020@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"></a>
   <a href="https://linkedin.com/in/sanjeevani-chaurasia"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"></a>
   <a href="https://instagram.com/sanjeevanii._"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"></a>
+</div>
+
+<div>
+  <img width=100% style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F7931E"  />
 </div>
